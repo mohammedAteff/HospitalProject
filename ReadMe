@@ -1,0 +1,34 @@
+Users , Doctors , Patients , Departments
+
+Admin > All Access ;
+Patioent > Profile ;
+Employess > semi Access ;
+
+=======================
+1-  Build DataBase ;   Relationships;
+    -Doctors ;
+    -Patients ;
+    -Employess ;
+    -Departments ;
+    -Admin ;
+2- Design ; 
+3- PHP back-end ;
+CURD OPerations Doctors
+CURD OPerations Patients
+CURD OPerations fields
+
+=====================
+
+4- Authintication > Admin > login ; 
+
+============================
+
+5- Authorization > After login ;;
+=======================
+
+6- Import and export DataBase
+
+====================
+
+7- push Github 
+
